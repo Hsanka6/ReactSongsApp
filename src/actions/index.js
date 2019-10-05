@@ -6,3 +6,5 @@ export const selectSong = song => {
     payload: song
   };
 };
+
+export default selectSong;
